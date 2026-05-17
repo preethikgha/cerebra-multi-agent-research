@@ -86,5 +86,18 @@ Open `http://127.0.0.1:5000` in your browser.
 - Report: Structured with headings, bullet points and citations
 
 ---
+## Metrics
+
+| Metric | Value |
+|---|---|
+| Agents | 3 autonomous agents (Researcher, Critic, Synthesizer) |
+| Sources collected per query | 10+ real-time web sources |
+| Search iterations | Up to 2 critic-triggered re-search loops |
+| Report length | ~500 words, structured with headings and citations |
+| Response time | ~20-30 seconds end to end |
+| LLM | LLaMA 3.3 70B via Groq |
+| Search engine | Tavily (advanced depth) |
+
+---
 
 Built by Preethikgha M 
